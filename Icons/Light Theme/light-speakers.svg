@@ -1,0 +1,19 @@
+<svg id="Light_Theme" data-name="Light Theme" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 634.35 491.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 19px;
+      }
+    </style>
+  </defs>
+  <title>light-speakers</title>
+  <g>
+    <polygon class="cls-1" points="290.32 19.09 290.32 471.83 116.29 328.94 9.5 325.93 9.5 157.47 107.27 157.47 290.32 19.09"/>
+    <path class="cls-1" d="M617.08,438.21s50.66,78.22,0,132.36" transform="translate(-224.5 -270.21)"/>
+    <path class="cls-1" d="M686.75,357s126.34,148.91,0,302.33" transform="translate(-224.5 -270.21)"/>
+    <path class="cls-1" d="M766.46,277.27S953,505.9,766.46,742" transform="translate(-224.5 -270.21)"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="Light_Theme" data-name="Light Theme" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 598.29 528.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 36px;
+      }
+    </style>
+  </defs>
+  <title>light-trashbin</title>
+  <g>
+    <polygon class="cls-1" points="449.76 510.46 110.13 510.46 21.53 18 575.14 18 449.76 510.46"/>
+    <line class="cls-1" x1="542.95" y1="18" x2="110.13" y2="510.46"/>
+    <line class="cls-1" x1="537.92" y1="158.12" x2="222.29" y2="510.46"/>
+    <line class="cls-1" x1="494.61" y1="334.29" x2="336.14" y2="510.46"/>
+    <line class="cls-1" x1="89.05" y1="393.31" x2="421.93" y2="18"/>
+    <line class="cls-1" x1="69.16" y1="282.75" x2="297.04" y2="18"/>
+    <line class="cls-1" x1="44.89" y1="155.13" x2="181.69" y2="18"/>
+  </g>
+</svg>

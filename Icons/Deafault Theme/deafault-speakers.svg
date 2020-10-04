@@ -1,0 +1,28 @@
+<svg id="Deafult_Theme" data-name="Deafult Theme" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0d0d0d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <title>deafault-speakers</title>
+  <rect class="cls-1" width="1080" height="1080"/>
+  <g>
+    <polygon class="cls-2" points="508.26 311.97 508.26 764.71 334.23 621.82 227.44 618.81 227.44 450.35 325.21 450.35 508.26 311.97"/>
+    <path class="cls-3" d="M610.51,460.87s50.66,78.22,0,132.37"/>
+    <path class="cls-3" d="M680.18,379.65s126.35,148.91,0,302.33"/>
+    <path class="cls-3" d="M759.9,299.93s186.51,228.63,0,464.78"/>
+  </g>
+</svg>

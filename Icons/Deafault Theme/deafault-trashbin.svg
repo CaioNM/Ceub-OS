@@ -1,0 +1,27 @@
+<svg id="Deafult_Theme" data-name="Deafult Theme" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0d0d0d;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 31px;
+      }
+    </style>
+  </defs>
+  <title>deafault-trashbin</title>
+  <rect class="cls-1" width="1080" height="1080"/>
+  <g>
+    <polygon class="cls-2" points="690.03 814.91 350.39 814.91 261.8 322.45 815.4 322.45 690.03 814.91"/>
+    <line class="cls-2" x1="783.22" y1="322.45" x2="350.4" y2="814.91"/>
+    <line class="cls-2" x1="778.19" y1="462.57" x2="462.56" y2="814.91"/>
+    <line class="cls-2" x1="734.88" y1="638.74" x2="576.41" y2="814.91"/>
+    <line class="cls-2" x1="329.32" y1="697.77" x2="662.2" y2="322.45"/>
+    <line class="cls-2" x1="309.43" y1="587.2" x2="537.31" y2="322.45"/>
+    <line class="cls-2" x1="285.15" y1="459.58" x2="421.96" y2="322.45"/>
+  </g>
+</svg>
